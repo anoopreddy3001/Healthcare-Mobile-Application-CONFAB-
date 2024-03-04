@@ -33,7 +33,7 @@ CONFAB features different views for patients and doctors, including:
 - Doctor's View: Patient management, appointment scheduling, and calendar management.
 
 ## Screenshots
-![App_ui](https://github.com/anoopreddy3001/Healthcare-Mobile-Application-CONFAB-/assets/132026714/f241e2ac-de09-43f5-8d76-11e41cec5314)
+![App_ui](https://github.com/anoopreddy3001/Healthcare-Mobile-Application-CONFAB-/assets/132026714/5e522790-8d35-4f79-b896-de90b1c420a1)
 
 
 ## Conclusion and Future Work
